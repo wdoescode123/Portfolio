@@ -141,7 +141,7 @@ const App: React.FC = () => {
                 {/* Profile Image with mask */}
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-white shadow-2xl relative z-10 bg-babyblue-50">
                   <img 
-                    src="https://picsum.photos/400/400?grayscale" 
+                    src="/Portfolio/Will.jpg" 
                     alt="Will Jackson" 
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
