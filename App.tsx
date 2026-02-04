@@ -335,7 +335,7 @@ const App: React.FC = () => {
                 Passionate about bridging the gap between Data Science and Software Engineering. Available for immediate opportunities.
               </p>
               <a 
-                href="/Will Jackson CV '25.pdf" 
+                href="/Portfolio/Will_Jackson_CV.pdf" 
                 download="Will_Jackson_CV.pdf"
                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-babyblue-600 hover:bg-babyblue-500 text-white rounded-lg font-medium transition-colors"
               >
