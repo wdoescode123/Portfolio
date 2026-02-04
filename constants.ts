@@ -1,3 +1,4 @@
+import { Power } from 'lucide-react';
 import { ExperienceItem, EducationItem, ReferenceItem, SkillItem } from './types';
 
 export const PERSONAL_INFO = {
@@ -63,11 +64,11 @@ export const EDUCATION_DATA: EducationItem[] = [
 export const SKILLS_DATA: SkillItem[] = [
   {
     category: "Programming",
-    skills: ["Python", "JavaScript", "TypeScript", "R", "SQL"]
+    skills: ["Python", "JavaScript", "TypeScript", "R", "SQL", "C#", "React", "Node.js", "Git", "Docker", "RESTful APIs", "React Admin"]
   },
   {
     category: "Tools & Automation",
-    skills: ["n8n (Workflow Automation)", "Microsoft Word", "Excel", "PowerPoint", "Canva"]
+    skills: ["n8n (Workflow Automation)", "Microsoft Word", "Excel", "PowerPoint", "Canva", "Tableau", "Power BI", "Jupyter Notebooks", "VS Code", "Postman"]
   },
   {
     category: "Soft Skills",
