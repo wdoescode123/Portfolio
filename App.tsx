@@ -100,7 +100,7 @@ const App: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/2 space-y-6">
               <div className="inline-block px-3 py-1 bg-babyblue-100 text-babyblue-700 rounded-full text-sm font-semibold tracking-wide uppercase">
-                Data Scientist & Software Developer
+                Data Science & Software Development
               </div>
               <h1 className="text-5xl md:text-7xl font-bold text-slate-900 leading-tight">
                 Hi, I'm <br />
@@ -335,9 +335,9 @@ const App: React.FC = () => {
                 Passionate about bridging the gap between Data Science and Software Engineering. Available for immediate opportunities.
               </p>
               <a 
-                href="/resume.pdf" 
+                href="/Will Jackson CV '25.pdf" 
+                download="Will_Jackson_CV.pdf"
                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-babyblue-600 hover:bg-babyblue-500 text-white rounded-lg font-medium transition-colors"
-                onClick={(e) => e.preventDefault()} // Placeholder logic
               >
                 <Download size={18} />
                 Download CV
